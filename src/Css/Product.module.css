@@ -1,0 +1,14 @@
+
+.post{
+  
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+  }
+  .button{
+   width: 310px;
+   background: #F49E10;
+   color: white;
+  }
+
+  
